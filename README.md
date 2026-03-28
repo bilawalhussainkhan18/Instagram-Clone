@@ -24,11 +24,4 @@ This project is a Django-based Instagram Clone developed as part of my internshi
 - Database: SQLite
 - Version Control: Git, GitHub
 
-## Project Structure
-instclone/
-│
-├── instaclone/ # Main project folder
-├── manage.py # Django management file
-├── templates/ # HTML templates
-├── static/ # CSS and static files
-└── db.sqlite3 # Database file
+
